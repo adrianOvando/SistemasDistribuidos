@@ -55,6 +55,6 @@ public class Libro implements IPublicacion{
     
     @Override
     public String MostrarEtiqueta() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+       return "Libro: " + nombre + " - " + autor + " (" + anio + "), Editorial: " + editorial;
     }
 }

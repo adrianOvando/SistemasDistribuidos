@@ -9,14 +9,20 @@ package Ej2;
  * @author Adrian
  */
 public class Revista implements IPublicacion{
-    String nombre;
-    
-    int anio;
-    int mes;
-    TipoRevista tipo;
+    String nombreRev;
+    int anioRev;
+    int mesRev;
+
+    public Revista(String nombreRev, int anioRev, int mesRev, TipoRevista tipoRev) {
+        this.nombreRev = nombreRev;
+        this.anioRev = anioRev;
+        this.mesRev = mesRev;
+        this.tipoRev = tipoRev;
+    }
+    TipoRevista tipoRev;
     
     @Override
     public String MostrarEtiqueta() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+        return "Revista: " + nombreRev + " - " + anioRev + "/" + mesRev + "- Tipo: " + tipoRev; 
     }
 }

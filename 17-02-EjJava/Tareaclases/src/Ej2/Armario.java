@@ -11,7 +11,28 @@ import java.util.ArrayList;
  * @author Adrian
  */
 class Armario {
-    Material material;
-    String codigo;
+
+    static Material material;
+    static String codigo;
     ArrayList<IPublicacion> publicaciones;
+    public Armario(String codigo, Material material) {
+        this.codigo = codigo;
+        this.material = material;
+        this.publicaciones = new ArrayList<>(); 
+    }
+
+    public void agregarPublicacion(IPublicacion publicacion) {
+        publicaciones.add(publicacion);
+    }
+
+    public ArrayList<IPublicacion> getPublicaciones() {
+        return publicaciones;
+    }
+    public static Material getMaterial() {
+        return material;
+    }
+
+    public static String getCodigo() {
+        return codigo;
+    }
 }

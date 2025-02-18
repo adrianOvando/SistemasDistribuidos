@@ -11,11 +11,17 @@ import java.util.ArrayList;
  * @author Adrian
  */
 public class Periodico implements IPublicacion{
-    String nombre;
-    String fecha;
+    String nombrePer;
+    String fechaPer;
     ArrayList<Suplemento>listaSuplementos;
+
+     public Periodico(String nombrePer, String fechaPer, ArrayList<Suplemento> listaSuplementos) {
+        this.nombrePer = nombrePer;
+        this.fechaPer = fechaPer;
+        this.listaSuplementos = listaSuplementos; 
+    }
     @Override
     public String MostrarEtiqueta() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+        return "Periodico: " + nombrePer + " - " + fechaPer;
     }
 }
