@@ -27,9 +27,9 @@ public void run() {
     };
 
     try {
-        // Mensaje de bienvenida
+        
         dos.writeUTF("** Ahorcado ** \nEscribe E o e para terminar la conexión.");
-        dos.flush(); // Forzar el envío del mensaje
+        dos.flush(); 
 
         Random random = new Random();
         String palabraAleatoria = palabras[random.nextInt(palabras.length)];
@@ -41,7 +41,7 @@ public void run() {
             mostrar[i] = '_';
         }
 
-        // Descubrir algunas letras aleatoriamente
+        
         for (int i = 0; i < letras.length; i++) {
             if (random.nextBoolean() && random.nextBoolean()) {
                 mostrar[i] = letras[i];
@@ -51,7 +51,7 @@ public void run() {
         int intentosRestantes = 7;
         boolean palabraCompleta = false;
 
-        // Enviar la palabra inicial al cliente
+        
         dos.writeUTF("Palabra: " + new String(mostrar) + "\nIntentos restantes: " + intentosRestantes);
         dos.flush(); // Forzar el envío del mensaje
 
@@ -60,7 +60,7 @@ public void run() {
 
             if (letraUsuario == 'E') {
                 dos.writeUTF("Cerrando conexión...");
-                dos.flush(); // Forzar el envío del mensaje
+                dos.flush(); 
                 s.close();
                 return;
             }
@@ -77,10 +77,10 @@ public void run() {
             if (!letraAdivinada) {
                 intentosRestantes--;
                 dos.writeUTF("Letra incorrecta. Te quedan " + intentosRestantes + " intentos.");
-                dos.flush(); // Forzar el envío del mensaje
+                dos.flush(); 
             }
 
-            // Revisar si la palabra se ha completado
+            
             palabraCompleta = true;
             for (char c : mostrar) {
                 if (c == '_') {
@@ -89,18 +89,18 @@ public void run() {
                 }
             }
 
-            // Enviar la palabra actualizada y los intentos restantes
+           
             dos.writeUTF("Palabra: " + new String(mostrar) + "\nIntentos restantes: " + intentosRestantes);
-            dos.flush(); // Forzar el envío del mensaje
+            dos.flush(); 
         }
 
-        // Resultado final
+        
         if (palabraCompleta) {
             dos.writeUTF("¡Felicidades! Has adivinado la palabra: " + palabraAleatoria);
         } else {
             dos.writeUTF("¡Oh no! Te has quedado sin intentos. La palabra era: " + palabraAleatoria);
         }
-        dos.flush(); // Forzar el envío del mensaje
+        dos.flush(); 
 
     } catch (IOException e) {
         e.printStackTrace();

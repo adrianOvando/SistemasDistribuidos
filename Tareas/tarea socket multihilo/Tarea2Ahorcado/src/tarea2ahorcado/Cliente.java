@@ -15,20 +15,20 @@ public class Cliente {
             DataOutputStream dos = new DataOutputStream(s.getOutputStream());
 
             while (true) {
-                // Leer y mostrar el mensaje del servidor
+                
                 String mensaje = dis.readUTF();
                 System.out.println(mensaje);
 
-                // Verificar si el juego ha terminado
+                
                 if (mensaje.contains("Cerrando conexión") || mensaje.contains("¡Felicidades!") || mensaje.contains("¡Oh no!")) {
                     break;
                 }
 
-                // Solicitar una letra al usuario
+               
                 System.out.print("Ingresa una letra: ");
                 char tosend = scn.next().charAt(0);
                 dos.writeUTF(Character.toString(tosend));
-                dos.flush(); // Forzar el envío de la letra
+                dos.flush(); 
             }
 
             scn.close();
