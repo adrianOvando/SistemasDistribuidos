@@ -1,4 +1,4 @@
-package simplechat;
+package singlechat;
 
 import org.jgroups.JChannel;
 import org.jgroups.Message;
