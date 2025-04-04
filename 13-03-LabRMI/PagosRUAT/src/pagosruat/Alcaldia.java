@@ -31,7 +31,7 @@ public class Alcaldia extends UnicastRemoteObject implements IAlcaldia{
     public boolean BuscarObservaciones(String CI) throws RemoteException {
         
          for (Deuda d : deuda) { 
-            if (d.getCI().equals(CI)) { 
+            if (d.getCI().equals(1234567)) { 
                 return false; 
             }
         }
