@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adrian\\Desktop\\COM-350\\TareaCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8368207F-294A-4636-AAD6-005D0580DC70}|TareaCrud\\TareaCrud.csproj|c:\\users\\adrian\\desktop\\com-350\\tareacrud\\tareacrud\\wspersona.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8368207F-294A-4636-AAD6-005D0580DC70}|TareaCrud\\TareaCrud.csproj|solutionrelative:tareacrud\\wspersona.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8368207F-294A-4636-AAD6-005D0580DC70}|TareaCrud\\TareaCrud.csproj|C:\\Users\\Adrian\\Desktop\\COM-350\\TareaCrud\\tareacrud\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8368207F-294A-4636-AAD6-005D0580DC70}|TareaCrud\\TareaCrud.csproj|solutionrelative:tareacrud\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\COM-350\\TareaCrud\\TareaCrud\\Persona.cs",
+              "RelativeDocumentMoniker": "TareaCrud\\Persona.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\COM-350\\TareaCrud\\TareaCrud\\Persona.cs",
+              "RelativeToolTip": "TareaCrud\\Persona.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T01:33:03.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "wsPersona.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\COM-350\\TareaCrud\\TareaCrud\\wsPersona.asmx.cs",
+              "RelativeDocumentMoniker": "TareaCrud\\wsPersona.asmx.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\COM-350\\TareaCrud\\TareaCrud\\wsPersona.asmx.cs",
+              "RelativeToolTip": "TareaCrud\\wsPersona.asmx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T01:30:57.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

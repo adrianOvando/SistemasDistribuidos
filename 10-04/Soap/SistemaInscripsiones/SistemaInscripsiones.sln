@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaInscripsiones", "SistemaInscripsiones\SistemaInscripsiones.csproj", "{4EBC8B0D-F990-422F-90EC-7E672DA083B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EBC8B0D-F990-422F-90EC-7E672DA083B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EBC8B0D-F990-422F-90EC-7E672DA083B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EBC8B0D-F990-422F-90EC-7E672DA083B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EBC8B0D-F990-422F-90EC-7E672DA083B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4561472-0E9B-42B2-91D0-21380B74331E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adrian\\Desktop\\COM-350\\10-04\\Soap\\SistemaInscripsiones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBC8B0D-F990-422F-90EC-7E672DA083B8}|SistemaInscripsiones\\SistemaInscripsiones.csproj|C:\\Users\\Adrian\\Desktop\\COM-350\\10-04\\Soap\\SistemaInscripsiones\\sistemainscripsiones\\wspersona.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBC8B0D-F990-422F-90EC-7E672DA083B8}|SistemaInscripsiones\\SistemaInscripsiones.csproj|solutionrelative:sistemainscripsiones\\wspersona.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBC8B0D-F990-422F-90EC-7E672DA083B8}|SistemaInscripsiones\\SistemaInscripsiones.csproj|c:\\users\\adrian\\desktop\\com-350\\10-04\\soap\\sistemainscripsiones\\sistemainscripsiones\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBC8B0D-F990-422F-90EC-7E672DA083B8}|SistemaInscripsiones\\SistemaInscripsiones.csproj|solutionrelative:sistemainscripsiones\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\COM-350\\10-04\\Soap\\SistemaInscripsiones\\SistemaInscripsiones\\Persona.cs",
+              "RelativeDocumentMoniker": "SistemaInscripsiones\\Persona.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\COM-350\\10-04\\Soap\\SistemaInscripsiones\\SistemaInscripsiones\\Persona.cs",
+              "RelativeToolTip": "SistemaInscripsiones\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:22:52.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "wsPersona.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\COM-350\\10-04\\Soap\\SistemaInscripsiones\\SistemaInscripsiones\\wsPersona.asmx.cs",
+              "RelativeDocumentMoniker": "SistemaInscripsiones\\wsPersona.asmx.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\COM-350\\10-04\\Soap\\SistemaInscripsiones\\SistemaInscripsiones\\wsPersona.asmx.cs",
+              "RelativeToolTip": "SistemaInscripsiones\\wsPersona.asmx.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:20:28.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

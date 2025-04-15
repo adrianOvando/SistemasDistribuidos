@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:53112/WSCalculadora.asmx?WSDL" uri="xml-resources/web-service-references/WSCalculadora/wsdl/localhost_53112/WSCalculadora.asmx.wsdl"/>
+</catalog>

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adrian\\Desktop\\COM-350\\Sventas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24CF3D0D-6B9B-407A-BA5A-F247D6812C4D}|Sventas\\Sventas.csproj|c:\\users\\adrian\\desktop\\com-350\\sventas\\sventas\\webservice1.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24CF3D0D-6B9B-407A-BA5A-F247D6812C4D}|Sventas\\Sventas.csproj|solutionrelative:sventas\\webservice1.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24CF3D0D-6B9B-407A-BA5A-F247D6812C4D}|Sventas\\Sventas.csproj|c:\\users\\adrian\\desktop\\com-350\\sventas\\sventas\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24CF3D0D-6B9B-407A-BA5A-F247D6812C4D}|Sventas\\Sventas.csproj|solutionrelative:sventas\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\COM-350\\Sventas\\Sventas\\Producto.cs",
+              "RelativeDocumentMoniker": "Sventas\\Producto.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\COM-350\\Sventas\\Sventas\\Producto.cs*",
+              "RelativeToolTip": "Sventas\\Producto.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:40:19.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebService1.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\COM-350\\Sventas\\Sventas\\WebService1.asmx.cs",
+              "RelativeDocumentMoniker": "Sventas\\WebService1.asmx.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\COM-350\\Sventas\\Sventas\\WebService1.asmx.cs*",
+              "RelativeToolTip": "Sventas\\WebService1.asmx.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:38:50.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
