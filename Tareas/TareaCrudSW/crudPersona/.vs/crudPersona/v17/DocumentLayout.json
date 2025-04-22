@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Adrian\\Desktop\\COM-350\\crudPersona\\",
+  "WorkspaceRootPath": "C:\\Users\\Adrian\\Desktop\\SistemasDistribuidos1\\Tareas\\TareaCrudSW\\crudPersona\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{286714C9-EA83-4501-A3DF-D75DFB012EA7}|crudPersona\\crudPersona.csproj|c:\\users\\adrian\\desktop\\com-350\\crudpersona\\crudpersona\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{286714C9-EA83-4501-A3DF-D75DFB012EA7}|crudPersona\\crudPersona.csproj|c:\\users\\adrian\\desktop\\sistemasdistribuidos1\\tareas\\tareacrudsw\\crudpersona\\crudpersona\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{286714C9-EA83-4501-A3DF-D75DFB012EA7}|crudPersona\\crudPersona.csproj|solutionrelative:crudpersona\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{286714C9-EA83-4501-A3DF-D75DFB012EA7}|crudPersona\\crudPersona.csproj|C:\\Users\\Adrian\\Desktop\\COM-350\\crudPersona\\crudpersona\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{286714C9-EA83-4501-A3DF-D75DFB012EA7}|crudPersona\\crudPersona.csproj|C:\\Users\\Adrian\\Desktop\\SistemasDistribuidos1\\Tareas\\TareaCrudSW\\crudPersona\\crudpersona\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{286714C9-EA83-4501-A3DF-D75DFB012EA7}|crudPersona\\crudPersona.csproj|solutionrelative:crudpersona\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\COM-350\\crudPersona\\crudPersona\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\SistemasDistribuidos1\\Tareas\\TareaCrudSW\\crudPersona\\crudPersona\\Form1.cs",
               "RelativeDocumentMoniker": "crudPersona\\Form1.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\COM-350\\crudPersona\\crudPersona\\Form1.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\SistemasDistribuidos1\\Tareas\\TareaCrudSW\\crudPersona\\crudPersona\\Form1.cs",
               "RelativeToolTip": "crudPersona\\Form1.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAgwCAAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwB8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T13:34:05.579Z",
               "IsPinned": true,
@@ -38,12 +38,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\COM-350\\crudPersona\\crudPersona\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\SistemasDistribuidos1\\Tareas\\TareaCrudSW\\crudPersona\\crudPersona\\Form1.cs",
               "RelativeDocumentMoniker": "crudPersona\\Form1.cs",
-              "ToolTip": "C:\\Users\\Adrian\\Desktop\\COM-350\\crudPersona\\crudPersona\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\SistemasDistribuidos1\\Tareas\\TareaCrudSW\\crudPersona\\crudPersona\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "crudPersona\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T02:02:33.172Z"
+              "WhenOpened": "2025-04-14T02:02:33.172Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

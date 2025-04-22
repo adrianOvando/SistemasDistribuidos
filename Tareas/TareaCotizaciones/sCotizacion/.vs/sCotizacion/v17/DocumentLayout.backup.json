@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adrian\\Desktop\\COM-350\\sCotizacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40EC6C55-EA8F-4E52-B11E-77F037A76B41}|sCotizacion\\sCotizacion.csproj|c:\\users\\adrian\\desktop\\com-350\\scotizacion\\scotizacion\\swcotizar.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40EC6C55-EA8F-4E52-B11E-77F037A76B41}|sCotizacion\\sCotizacion.csproj|solutionrelative:scotizacion\\swcotizar.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "swCotizar.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\COM-350\\sCotizacion\\sCotizacion\\swCotizar.asmx.cs",
+              "RelativeDocumentMoniker": "sCotizacion\\swCotizar.asmx.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\COM-350\\sCotizacion\\sCotizacion\\swCotizar.asmx.cs",
+              "RelativeToolTip": "sCotizacion\\swCotizar.asmx.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAuwEQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:36:51.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

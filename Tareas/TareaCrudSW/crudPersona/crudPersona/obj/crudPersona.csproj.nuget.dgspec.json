@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Adrian\\Desktop\\COM-350\\crudPersona\\crudPersona\\crudPersona.csproj": {}
+    "C:\\Users\\Adrian\\Desktop\\SistemasDistribuidos1\\Tareas\\TareaCrudSW\\crudPersona\\crudPersona\\crudPersona.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Adrian\\Desktop\\COM-350\\crudPersona\\crudPersona\\crudPersona.csproj": {
+    "C:\\Users\\Adrian\\Desktop\\SistemasDistribuidos1\\Tareas\\TareaCrudSW\\crudPersona\\crudPersona\\crudPersona.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\COM-350\\crudPersona\\crudPersona\\crudPersona.csproj",
+        "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\SistemasDistribuidos1\\Tareas\\TareaCrudSW\\crudPersona\\crudPersona\\crudPersona.csproj",
         "projectName": "crudPersona",
-        "projectPath": "C:\\Users\\Adrian\\Desktop\\COM-350\\crudPersona\\crudPersona\\crudPersona.csproj",
+        "projectPath": "C:\\Users\\Adrian\\Desktop\\SistemasDistribuidos1\\Tareas\\TareaCrudSW\\crudPersona\\crudPersona\\crudPersona.csproj",
         "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Adrian\\Desktop\\COM-350\\crudPersona\\crudPersona\\obj\\",
+        "outputPath": "C:\\Users\\Adrian\\Desktop\\SistemasDistribuidos1\\Tareas\\TareaCrudSW\\crudPersona\\crudPersona\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

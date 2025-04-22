@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xFxKcbWNL3w=",
+  "dgSpecHash": "JAWN+OXU8Mc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Adrian\\Desktop\\COM-350\\crudPersona\\crudPersona\\crudPersona.csproj",
+  "projectFilePath": "C:\\Users\\Adrian\\Desktop\\SistemasDistribuidos1\\Tareas\\TareaCrudSW\\crudPersona\\crudPersona\\crudPersona.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Adrian\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Adrian\\.nuget\\packages\\microsoft.extensions.objectpool\\6.0.16\\microsoft.extensions.objectpool.6.0.16.nupkg.sha512",
