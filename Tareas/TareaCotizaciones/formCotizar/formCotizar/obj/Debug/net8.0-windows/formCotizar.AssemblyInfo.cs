@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("formCotizar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+566c13bef32e237aeb505f04c51798239e8a0ec8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2db1cd4363e643e31c3e9dfa2aa533a95bd1ac6b")]
 [assembly: System.Reflection.AssemblyProductAttribute("formCotizar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("formCotizar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

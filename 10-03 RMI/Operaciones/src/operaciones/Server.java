@@ -19,9 +19,9 @@ import java.util.logging.Logger;
 public class Server {
     public static void main (String[] Args){
         try {
-            CleinteJuez juez = ClienteJUEZ();
+            Operaciones juez = new Operaciones();
             LocateRegistry.createRegistry(1099);
-            Naming.bind("N",ClienteJUEZ);
+            Naming.bind("N", juez);
         } catch (RemoteException ex) {
             Logger.getLogger(Server.class.getName()).log(Level.SEVERE, null, ex);
         } catch (AlreadyBoundException ex) {

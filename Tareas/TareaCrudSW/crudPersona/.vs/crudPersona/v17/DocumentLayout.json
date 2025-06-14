@@ -7,7 +7,11 @@
       "RelativeMoniker": "D:0:0:{286714C9-EA83-4501-A3DF-D75DFB012EA7}|crudPersona\\crudPersona.csproj|solutionrelative:crudpersona\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{286714C9-EA83-4501-A3DF-D75DFB012EA7}|crudPersona\\crudPersona.csproj|C:\\Users\\Adrian\\Desktop\\SistemasDistribuidos1\\Tareas\\TareaCrudSW\\crudPersona\\crudpersona\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{286714C9-EA83-4501-A3DF-D75DFB012EA7}|crudPersona\\crudPersona.csproj|c:\\users\\adrian\\desktop\\sistemasdistribuidos1\\tareas\\tareacrudsw\\crudpersona\\crudpersona\\crudpersona.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{286714C9-EA83-4501-A3DF-D75DFB012EA7}|crudPersona\\crudPersona.csproj|solutionrelative:crudpersona\\crudpersona.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286714C9-EA83-4501-A3DF-D75DFB012EA7}|crudPersona\\crudPersona.csproj|c:\\users\\adrian\\desktop\\sistemasdistribuidos1\\tareas\\tareacrudsw\\crudpersona\\crudpersona\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{286714C9-EA83-4501-A3DF-D75DFB012EA7}|crudPersona\\crudPersona.csproj|solutionrelative:crudpersona\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,7 +32,7 @@
               "RelativeDocumentMoniker": "crudPersona\\Form1.cs",
               "ToolTip": "C:\\Users\\Adrian\\Desktop\\SistemasDistribuidos1\\Tareas\\TareaCrudSW\\crudPersona\\crudPersona\\Form1.cs",
               "RelativeToolTip": "crudPersona\\Form1.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAwB8AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T13:34:05.579Z",
               "IsPinned": true,
@@ -37,6 +41,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "crudPersona.csproj",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\SistemasDistribuidos1\\Tareas\\TareaCrudSW\\crudPersona\\crudPersona\\crudPersona.csproj",
+              "RelativeDocumentMoniker": "crudPersona\\crudPersona.csproj",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\SistemasDistribuidos1\\Tareas\\TareaCrudSW\\crudPersona\\crudPersona\\crudPersona.csproj",
+              "RelativeToolTip": "crudPersona\\crudPersona.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-22T08:22:56.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\SistemasDistribuidos1\\Tareas\\TareaCrudSW\\crudPersona\\crudPersona\\Form1.cs",
               "RelativeDocumentMoniker": "crudPersona\\Form1.cs",

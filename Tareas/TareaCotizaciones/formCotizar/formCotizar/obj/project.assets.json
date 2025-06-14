@@ -3012,11 +3012,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\COM-350\\formCotizar\\formCotizar\\formCotizar.csproj",
+      "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\SistemasDistribuidos1\\Tareas\\TareaCotizaciones\\formCotizar\\formCotizar\\formCotizar.csproj",
       "projectName": "formCotizar",
-      "projectPath": "C:\\Users\\Adrian\\Desktop\\COM-350\\formCotizar\\formCotizar\\formCotizar.csproj",
+      "projectPath": "C:\\Users\\Adrian\\Desktop\\SistemasDistribuidos1\\Tareas\\TareaCotizaciones\\formCotizar\\formCotizar\\formCotizar.csproj",
       "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Adrian\\Desktop\\COM-350\\formCotizar\\formCotizar\\obj\\",
+      "outputPath": "C:\\Users\\Adrian\\Desktop\\SistemasDistribuidos1\\Tareas\\TareaCotizaciones\\formCotizar\\formCotizar\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

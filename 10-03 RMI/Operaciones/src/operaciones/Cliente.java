@@ -23,35 +23,30 @@ public class Cliente {
         try {
             operacion = (IOperacion)Naming.lookup("rmi://localhost/N");
              System.out.println("Elija una opción:");
-                System.out.println("1.- Establecer valor de n");
+                System.out.println("1.- Calcular Factorial");
                 System.out.println("2.- Calcular Fibonacci");
-                System.out.println("3.- Calcular Factorial");
-                System.out.println("4.- Calcular Sumatoria");
-                System.out.println("5.- Salir");
+                System.out.println("3.- Calcular Sumatoria");
+                System.out.println("4.- Salir");
                 System.out.print("Opción: ");
                 String opcion = sc.nextLine();
              switch (opcion) {
-            case "1": 
-                int n= sc.nextInt();
-                operacion.setN(n);
-                break;
 
-            case "2": 
+            case "1": 
                 int a= sc.nextInt();
                 System.out.println(operacion.Factorial(a));
                 break;
 
-            case "3": 
+            case "2": 
                 int b= sc.nextInt();
                 System.out.println(operacion.Fibonacci(b));
                 break;
 
-            case "4": 
+            case "3": 
                 int c= sc.nextInt();
                 System.out.println(operacion.Sumatoria(c));
                 break;
 
-            case "5": 
+            case "4": 
                 break;
 
             default:
